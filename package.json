@@ -1,6 +1,6 @@
 {
   "name": "cat-box",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrapper for react-native AsyncStorage",
   "main": "dist/index.js",
   "scripts": {
