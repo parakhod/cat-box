@@ -1,6 +1,6 @@
 {
   "name": "cat-box",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Wrapper for react-native AsyncStorage",
   "main": "dist/index.js",
   "scripts": {
@@ -25,5 +25,7 @@
     "babel-preset-stage-0": "^6.24.1"
   },
   "homepage": "https://github.com/parakhod/cat-box#readme",
-  "dependencies": {}
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
 }
